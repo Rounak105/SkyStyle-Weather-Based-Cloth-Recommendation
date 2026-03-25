@@ -1,0 +1,9 @@
+# FastAPI Backend for SkyStyle
+fastapi
+uvicorn
+joblib
+scikit-learn
+pandas
+supabase
+python-dotenv
+httpx

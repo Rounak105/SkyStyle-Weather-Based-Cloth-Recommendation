@@ -1,0 +1,5 @@
+{
+  "name": "SkyStyle: AI Weather Outfit Planner",
+  "description": "A smart weather-based clothing recommendation system that uses real-time weather data and AI to suggest the perfect outfit for any condition and activity.",
+  "requestFramePermissions": ["geolocation"]
+}
