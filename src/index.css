@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-strawberry: #FB3640;
+  --color-charcoal: #605F5E;
+  --color-twilight: #1D3461;
+  --color-steel: #1F487E;
+  --color-cerulean: #247BA0;
+  
+  --color-primary: var(--color-cerulean);
+  --color-accent: var(--color-strawberry);
+  --color-bg-dark: #0D1B2A;
+  --color-surface: #1B263B;
+  --color-text-light: #E0E1DD;
+}
+
+@layer base {
+  .light {
+    --color-bg-dark: #F8F9FA;
+    --color-surface: #FFFFFF;
+    --color-text-light: #1D3461;
+    --color-steel: #605F5E;
+  }
+}
